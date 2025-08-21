@@ -119,9 +119,6 @@ else:
     firstPlayer = playerTwoName
     secondPlayer = playerOneName
 
-# TODO: Game event logging
-# TODO: Finish game loop and logic
-
 playing = True
 currentPlayer = firstPlayer
 currentPiece = CIRCLE
