@@ -2,8 +2,7 @@ class Board:
         """A board object for a computerised game
 
             This board can be used for the Tic Tac Toe game.
-            Stores the board, the pieces used on the board, 
-            possible moves and winning lines.
+            Stores the board, possible moves and winning lines.
         """
 
 
